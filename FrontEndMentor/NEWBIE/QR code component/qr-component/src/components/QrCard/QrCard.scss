@@ -1,0 +1,50 @@
+.qrCard {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+    padding: .7rem;
+
+    width: 90%;
+    max-width: 300px;
+
+    border-radius: 1rem;
+    background-color: var(--white);
+
+    &__imageContainer {
+        width: 100%;
+
+        margin-bottom: 1.5rem;
+
+        border-radius: 1rem;
+        overflow: hidden;
+
+        &__image {
+            width: 100%;
+            max-width: 100%;
+            vertical-align: middle;
+        }
+    }
+
+
+    &__body {
+        text-align: center;
+        padding: 0 1rem;
+        margin-bottom: 1.2rem;
+        
+        &__title {
+            font-size: 1rem;
+            margin-bottom: .7rem;
+            font-weight: bold;
+            color: var(--darkBlue);
+        }
+
+        &__paragraph {
+            font-size: .8rem;
+            font-weight: 400;
+            color: var(--grayishBlue);
+        }
+    }
+
+}
