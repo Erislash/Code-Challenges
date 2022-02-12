@@ -46,6 +46,9 @@ Users should be able to:
 
 ---
 
+- [Solution URL](https://github.com/Erislash/Code-Challenges/tree/master/FrontEndMentor/NEWBIE/NFT%20preview%20card%20component/nft-preview-card)
+- [Live Site URL](https://nft-preview-component.vercel.app/)
+
 # My Process
 
 ---
@@ -59,6 +62,7 @@ Users should be able to:
 - Flexbox
 - Mobile-first workflow
 - [ReactJS](https://reactjs.org/) library
+- Vercel (deployment)
 
 ## What I learned
 
